@@ -1,0 +1,161 @@
+Exercise 5: Formatted I/O & Decision making constructs [05/09/2019]
+
+ 
+
+Note:
+
+Write each program in separate python file and also prepare a MS Word document with problem, solution and output.
+
+Save your program files in Z:\Python\Ex5\Prg<no>.py
+
+ 
+
+1. Write a program to calculate addition and subtraction of two nos. inputted by user in same line. You program should have only two LOC.
+
+2. Write a program to calculate area of triangle where three sides of triangle is inputted by user against a single input statement and values are space separated. (Hint: Use Heron’s formulae).
+
+3. Write a program to input first name, middle name and surname in a single line by single input function separated by ‘,’.  And greet the user as
+
+Hello Mr. <surname>, Your Given name is <First Name>  and middle name is <middlename>
+
+4. Write a program to evaluate an expression entered by user. Also solve that manually and verify your result with the evaluated one.
+
+5. Write a program to input users name, age and salary in single input() and print the result with format specifier
+
+6. Write a program to input name, class and marks in five subjects of a student in single input() and print the percentage of the student.
+
+7. Write a program to print
+
+Hello
+
+Dear
+
+How are you
+
+with end marker of Newline, tab, :, comma, ;.
+
+8. Write a program to print the name with left justified by 20 spaces using print()
+
+9. Write a program to print the name with right justified by 40 spaces using print()
+
+10. Write a program to print the name with left justified by 20 spaces using format()
+
+11.Write a program to print the name with right justified by 40 spaces using format()
+
+12.Write a program to print the name with centrally aligned by 40 spaces using format()
+
+13.Write a program to print value of 1/3 upto 5 decimal places with format()
+
+14.Write a program to print first character of the student name using %c specifier
+
+15. Write a program to print name, age and percentage using format specifier as per following format:
+
+Name: 20 left justified
+
+Age: 20 right justified
+
+Percent: 5.2 left justified in print() with %(format specifier)
+
+16. Do the above problem with {} and format()
+
+17. Write a program to print names of 3 Avengers using {} and format function by using index
+
+18. Write a program to print names of 3 Avengers using {} and format function by using name
+
+19. Write a program to print names of 3 Avengers using {} and format function without using index.
+
+20. Write a program to print names of 3 Avengers using {} and format function by using jumbled index.
+
+21. Write a program to use the following escape sequences
+
+\n, \t, \r, \f, \a, \b
+
+22. Write a program to print “Hello\nWorld”
+
+23. List all the built in functions of python.
+
+24. Write a program to print a list.
+
+25. Write a program to print a tuple.
+
+26. Write a program to print a dictionary
+
+27. Write a program to print the values of any 3 variables separated by ‘,’.
+
+28. Write a program to print the values of any 3 variables separated by tab.
+
+29. Write a program to print the values of any 3 variables separated by ‘:’.
+
+30. Write a program to print the values of any 3 variables separated by ‘*’.
+
+31. Write a program to print the values of any 3 variables separated by ‘--------------------’.
+
+32. Write a program to calculate area of circle. Use the pi value from math module and print the result. Check the result that up to how many places it has been displayed. Now format the result to display only up to 2 decimal places.
+
+33. Write a program to rounded off values of a float values up to two decimal places. [Hint: Take help about round() and use it]
+
+34. Write a program to print following pattern. [Hint: Use for loop with ‘$’* i]
+
+$
+$$
+$$$
+
+$$$$
+
+$$$$$
+
+35. Write a program to print the above program where the symbol and no of repletion both is entered by user in same line.
+
+36. Write a program to check whether a person is eligible for vote or not.
+
+37. Write a program to check whether a no is negative or positive
+
+38. Write a program to check whether a no is negative or positive or zero
+
+39. Write a program to check whether a no is even or odd.
+
+40. Write a program to check whether a person is eligible for vote or not. If s(he) is not eligible, display how many years are left to be eligible.
+
+41. Write a program to find the larger of two nos.
+
+42. Write a program to accept names of avengers from keyboard separated by comma into a single variable and display them. (Hint: use eval() and enter a list of avaengers)
+
+43. Redo the above and accept the names of avengers in same line by using input().
+
+44. List out all the contents of math modules in separate lines. (Hint: loop over dir())
+
+ 
+
+ 
+
+######################
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
