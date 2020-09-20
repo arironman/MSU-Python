@@ -1,0 +1,353 @@
+Exercise 4: Misc: Basics of List, Tuple and Dict/ Modules/ Output Formatting [22/08/2019]
+
+ 
+
+Note: Perform your experiments with defined variables as well as user inputted values.
+
+1.      Import math module
+
+2.      Import this module
+
+3.      Take help about math module
+
+4.      Write a program to print the value of pi and e from math module
+
+5.      Write a program to use help module with following ways
+
+            Import module
+
+Import module as alias_name
+
+From module import function/constant
+
+6.      List all the functions and constants of math module
+
+7.      Calculate the area of circle using Pi value and pow function of math module.
+
+8.      Calculate the facorial of a number using appropriate function in math module
+
+9.      Create a list of Avengers
+
+10.  Create a tuple of animals
+
+11.  Conver a list into tuple and vice versa
+
+12.  Write a program to display the ascii value of a user inputted character
+
+13.  Write a program to display the character equivalent of a user inputed number between  0-255
+
+14.  Write a program to conver a temperature given in fahrenheit to centigrade and vice versa
+
+              Hint: Centigrade= (F - 32) × 5/9 °C or (F-32)/1.8 or (F-32* 0.56
+
+                      fahrenheit=C * 1.8 + 32 or C * 9/5 + 32
+
+15.  Write a program to convert Celsius to Kelvin and vice versa
+
+Hint: K =C + 273.15
+
+16.  Write a program to convert Kelvin to Fahrenheit
+
+Hint: F =(K - 273.15)* 1.8 + 32
+
+17.  Write a program to reverse a string
+
+18.  Create a Dictionary of  Roll No and Name
+
+19.  Write a program to calculate square root of a user inputted by using math module funtion.
+
+20.  Write a program to calulate log of a user inputted number using math module function
+
+21.  Write a program to swap two no using a third variable
+
+ 
+
+22.  Write a program to swap two no without a third variable
+
+23.  Print the following:
+
+            Ram’s wife is Seeta in single quote
+
+Ram is also known as “Maryada Purushottam” in double quote
+
+24.  Perform the following on the given string and interpret the output by writing acomment
+
+str= ‘Python is Easy !!!’
+
+print(str)
+
+print(str[0])
+
+print(str[: : -1])
+
+print(str[:])
+
+print(str[-3])
+
+print(str[3: 9])
+
+print(str[ : 5])
+
+print(str[0:])
+
+print(str*2)
+
+print(str+ “Isn’t it”)
+
+print(str[0:])
+
+str[3]=’X’;  print(str)
+
+ 
+
+25.  Perform the following on the given tuple and interpret the output by writing a comment
+
+Tup1 = (‘a’, ‘bc’, 78, 1.23, ‘Python’,  3.14,  8977)
+
+Tup2 = ‘d’, 45
+
+print(Tup1)
+
+print(Tup1[0])
+
+print(Tup1[2])
+
+print(Tup1[1:3])
+
+print(Tup1[2:])
+
+print(Tup1[-2])
+
+print(Tup1*2)
+
+print(Tup1 + Tup2)
+
+Tup1[0]= ‘z’; print(Tup1)
+
+ 
+
+ 
+
+26.  Perform the following on the given list and interpret the output by writing a comment
+
+Lst1= [‘a’, ‘bc’, 78, 1.23, ‘Bollywood’, ‘Vadodara’, 390002]
+
+Lst2= [‘d’, 92782]
+
+print(Lst1)
+
+print(Lst1[0])
+
+print(Lst1[1:3])
+
+print(Lst1[-5])
+
+print(Lst1[:3])
+
+print(Lst1[1:])
+
+print(Lst1*2)
+
+print(Lst1+Lst2)
+
+27.  Perform the following on the given list and interpret the output by writing a comment
+
+Dict1= {“Item”: “Chocolate”, “Price”: 50.00}
+
+print(Dict1[“Price”])
+
+print(Dict1[“Item”])
+
+ 
+
+Find the types of str, Tup1, Lst1, Dict1
+
+ 
+
+28.  Demonstrate the use of following functions with its definition
+
+int(x)
+
+long(x)
+
+float(x)
+
+type(x)
+
+str(x)
+
+tuple(x)
+
+list(x)
+
+29.  Write a program to calculate the total amount of money in the piggybank given the coints of Rs 10, Rs 5, Rs 2, Rs 1, 50 Paise and 25 Paise.
+
+30.  Write a program to demonsrate the use of multiple assignment and print the values.
+
+31.  Write a program to define and display binary, octal and hexadecimal values.
+
+32.  Write a program to convert a number into octal, hexa and binary using oct(). hex)( and bin() functions
+
+33.  Write a program to convert octal, hexa and binary into decimal nos. [Hint: Use int()]
+
+34.  Write a program to convert octal, hexa and binary into decimal nos. [Hint: Use int(str, base)]
+
+35.  Write a program to exhibit indentation error. (Note: All statements inside a block should be at the same indentation level otherwise there will be indentation error)
+
+36.  Write a program to evaluate an expresson inputer by user.
+
+37.  Install the following third party modules/packages into python:
+
+numpy, scipy, matplotlib, pandas, tensorflow, keras, seaborn
+
+38.  Change the indentation style in IDLE.
+
+39.  Write a program to display even nos. till 100 [Hint: Use range()]]
+
+40.  Write a program to display odd nos. till 100 [Hint: Use range()]
+
+41.  Write a program to display nos. divisible by 3, 5, 7 till 100 [Hint: Use range()]
+
+42.  Write a program to display sum of two complex nos, which will be  inputted by user.
+
+43.  Write a program to accept name, age, salary from user and display it.
+
+44.  Write a program to accept name, age, salary from user and display it.
+
+45.  Write a program to accept name, age, salary from user and display separated by ‘,’, tab, new line, ‘:’
+
+46.  Write a program to accept name, age, salary from user and display by using print() with formatted string.
+
+47.  Write a program to accept a list from user and diplsay it [Hint: Use eval()]
+
+48.  Represent a float value into scientific notation and print its value
+
+>>>a=1.2e10
+
+>>> a= 12e9
+
+>>> .12e11
+
+>>> .012e12
+
+ 
+
+49.  Print the following string
+
+   "i ? cats"
+
+50.  Print the following string
+
+“Ram \n Shyam”
+
+51.  Python Program to Convert Kilometers to Miles and vice versa [Hint: mi =km * 0.62137 ]
+
+52.  Python Program to Calculate the Area of a Triangle [Hint: area= sqrt(s (s-a) (s-b) (s-c) where s= a+b+c/2 and a, b, c are sides of traingle)]
+
+53.  Python Program to calculate the square root without using any function.
+
+54.  Write a program to find ascii values from 0-255 and their corresponding character [Hint use range(0:256) and chr() function in a for loop]
+
+55.  Write a program to conver
+
+a)      Meters to Feet
+
+b)     Feet to Meters
+
+c)      inches to cm
+
+d)     cm to inches
+
+e)      mm to inches
+
+f)       inches to mm
+
+g)      Inches to Feet
+
+h)     Feet to Inches
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formullaes for conversion
+
+ 
+
+ft =m * 3.2808
+
+m =ft / 3.2808
+
+cm =in / 0.39370
+
+in =cm * 0.39370
+
+in =mm * 0.039370
+
+mm =in / 0.039370
+
+mi =km * 0.62137
+
+ft =in * 0.083333
+
+in =ft * 12.000
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
