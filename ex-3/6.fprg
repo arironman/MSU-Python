@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Jitendra kumar yadav"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-16 12:15:03 AM"/>
+        <attribute name="created" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MTE6MzIgQU07NDM1Ng=="/>
+        <attribute name="edited" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MTU6MDMgQU07MTs0NDY2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="l" type="Integer" array="False" size=""/>
+            <declare name="w" type="Integer" array="False" size=""/>
+            <declare name="h" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter length,width and height respictively: &quot;" newline="True"/>
+            <input variable="l"/>
+            <input variable="w"/>
+            <input variable="h"/>
+            <output expression="&quot;Area of the Box is: &quot;" newline="False"/>
+            <output expression="(l*h)+(l*w)+(h*w)" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

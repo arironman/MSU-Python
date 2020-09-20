@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Jitendra kumar yadav"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-16 12:08:16 AM"/>
+        <attribute name="created" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MDU6MzggQU07NDM2NQ=="/>
+        <attribute name="edited" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MDg6MTYgQU07MTs0NDcy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter the radius of Triangle: &quot;" newline="True"/>
+            <input variable="r"/>
+            <declare name="area" type="Integer" array="False" size=""/>
+            <assign variable="area" expression="3.14*r*r"/>
+            <output expression="&quot;Area of the Triangle: &quot;" newline="False"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

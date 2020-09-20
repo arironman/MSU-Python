@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Jitendra kumar yadav"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-16 12:05:37 AM"/>
+        <attribute name="created" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MDI6MjkgQU07NDM2Mg=="/>
+        <attribute name="edited" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MDU6MzcgQU07MTs0NDcy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Enter Number 1 and 2 respictively: &quot;" newline="True"/>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <declare name="y" type="Integer" array="False" size=""/>
+            <declare name="sum" type="Integer" array="False" size=""/>
+            <input variable="x"/>
+            <input variable="y"/>
+            <assign variable="sum" expression="x+y"/>
+            <output expression="&quot;Sum of 2 Number is: &quot;" newline="False"/>
+            <output expression="sum" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

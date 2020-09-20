@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Jitendra kumar yadav"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-16 12:11:30 AM"/>
+        <attribute name="created" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MDg6MTcgQU07NDM2NQ=="/>
+        <attribute name="edited" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MTE6MzAgQU07Mjs0NDYz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="l" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="area" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter the Lengh and breadth of the field respictively: &quot;" newline="True"/>
+            <input variable="l"/>
+            <input variable="b"/>
+            <assign variable="area" expression="l*b"/>
+            <output expression="&quot;Area of the Field is: &quot;" newline="False"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

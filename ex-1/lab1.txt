@@ -1,0 +1,43 @@
+Exercise 1: Getting Started with Python [5/08/2019]
+
+ 
+
+Installing Python
+
+Install Python 3.7.4 in your PC.
+
+Working with IDLE
+
+1)      Write a program to say Hello World on python shell.
+
+2)      Write a program to print your name on python shell.
+
+3)      Write a program to print your address.
+
+4)      Do some arithmetic on Python shell with the following operators:
+
++, - ,* ,** , / ,//, %
+
+5)      Redo Q1-Q3 in python scripts.
+
+6)      Write a program to add two numbers.
+
+7)      Write a program to calculate area of a circle.
+
+8)      Write a program to calculate area of a room.
+
+9)      Write a program to find sum of first n numbers.
+
+ 
+
+Comments in Python
+
+Redo Q1-Q3 with single line and multiple line comments.
+
+Getting Help in Python IDLE
+
+ 
+
+ 
+
+ 

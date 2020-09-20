@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Jitendra kumar yadav"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-09-16 12:17:38 AM"/>
+        <attribute name="created" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MTU6MDUgQU07NDM2MA=="/>
+        <attribute name="edited" value="Sml0ZW5kcmEga3VtYXIgeWFkYXY7SklURU5EUkFLVU1BUllBOzIwMTktMDktMTY7MTI6MTc6MzggQU07MTs0NDc2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="p" type="Integer" array="False" size=""/>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <declare name="t" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter the Principle, Rate and Time respictively: &quot;" newline="True"/>
+            <input variable="p"/>
+            <input variable="r"/>
+            <input variable="t"/>
+            <output expression="&quot;Simple Intrest is: &quot;" newline="False"/>
+            <output expression="(p*r*t)/100" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

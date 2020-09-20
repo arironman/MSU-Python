@@ -1,0 +1,43 @@
+Exercise 3: Problem Solving with Flowcharts [19/08/2019]
+
+ 
+
+Installing Flowgorithm
+
+Download Flowgorithm Tutorial http://www.flowgorithm.org/documentation/index.htm
+
+ 
+
+Problem Solving with Flowcharts
+
+1)      Create a flowchart to print hello World.
+
+2)      Create a flowchart to print your mailing address.
+
+3)      Create a flowchart to add two numbers.
+
+4)      Create a flowchart to calculate area of a circle.
+
+5)      Draw a flow to calculate area of a field.
+
+6)      Draw a flow to calculate volume of a box.
+
+7)      Draw a flow to calculate simple interest.
+
+8)      Create a flowchart to check whether a no is even or odd.
+
+9)      Create a flowchart to check whether a no is positive or negative
+
+10)  Create a flowchart to determine the larger of two numbers.
+
+11)  Create a flowchart to check whether a no is (a) divisible by 2 or not (b) divisible by 3 or not (c) divisible by 5 or not (d) divisible by 10 or not.
+
+12)  Create a flowchart to print table of 2.
+
+13)  Create a flowchart to calculate sum of first 10 natural no using formulae.
+
+14)  Create a flowchart to calculate sum of first n numbers where n is entered by user
+
+15)  Create a flowchart to calculate sum of first 10 numbers with looping construct.
+
+ 
